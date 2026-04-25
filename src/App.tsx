@@ -232,7 +232,7 @@ export default function App() {
             >
               <Zap className="w-16 h-16 text-[#00f2ff] mb-4 animate-pulse" />
               <h1 className="text-4xl font-black text-white mb-2 italic tracking-tighter uppercase underline decoration-[#ff0080] decoration-4 underline-offset-8">
-                NEON FLIGHT FLAPPY
+                NEON FLAPPY
               </h1>
               <p className="text-[#00f2ff]/60 text-sm mb-8 uppercase tracking-widest font-bold">
                 Jump through the neon grid
